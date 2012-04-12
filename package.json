@@ -1,0 +1,14 @@
+{
+  "name" : "Node.js-Boilerplate",
+  "version" : "0.1.0",
+  "dependencies": {
+    "express": "latest",
+    "mongodb": "latest",
+    "mongoose": "latest",
+    "jade": "latest",
+    "socket.io": "latest",
+    "nib": "latest",
+    "stylus": "latest"
+  },
+  "engine": "node 0.6.12"
+}
