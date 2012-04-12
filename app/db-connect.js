@@ -1,3 +1,3 @@
 exports = mongoose = require("mongoose");
-mongoose.connect("mongodb://localhost/project-fiji");
+mongoose.connect("mongodb://localhost/");
 exports = Schema = mongoose.Schema;
