@@ -15,4 +15,7 @@ So I put a very basic repo together that includes just those essentials.  I hope
 
 I also included a "flushdb" batch file which will clear all the data out of the data/db folder, as well as a "launch" batch file that will run mongo and nodemon.
 
-Note: this requires NodeMon and Mongo to be installed before hand.
+Notes: 
+- This requires Node.js, Nodemon and MongoDB to be installed before hand.
+- To install dependences run "npm install" from the root directory
+
