@@ -47,4 +47,4 @@ public/img/projects/
 public/devices/
 
 data/db/
-npm_modules/
+node_modules/
