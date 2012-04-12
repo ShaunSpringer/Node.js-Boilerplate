@@ -1,0 +1,18 @@
+===========================================================
+Node.js Boilerplate
+===========================================================
+
+I found myself constantly needing a boilerplate that included:
+- Express
+- Jade
+- Stylus
+- Nib
+- MongoDB
+- Mongoose
+- Socket.io
+
+So I put a very basic repo together that includes just those essentials.  I hope that others find this useful.
+
+I also included a "flushdb" batch file which will clear all the data out of the data/db folder, as well as a "launch" batch file that will run mongo and nodemon.
+
+Note: this requires NodeMon and Mongo to be installed before hand.
