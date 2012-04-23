@@ -32,6 +32,6 @@ controllerFiles.forEach(function(file){
 //setup our default route
 app.get('/', function(req, res){	
 	res.render('index', {
-	    title: 'Project Fiji'
+	    title: 'Node.js Boilerplate'
 	});		
 });
